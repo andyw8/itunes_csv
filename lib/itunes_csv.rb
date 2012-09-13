@@ -1,6 +1,6 @@
-require "itunes_to_csv/version"
+require "itunes_csv/version"
 
-module ItunesToCsv
+module ItunesCsv
   DefaultPath = "~/Music/iTunes/iTunes Music Library.xml"
   class CommandLine
     def self.invoke(args)

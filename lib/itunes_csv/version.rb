@@ -1,3 +1,3 @@
-module ItunesToCsv
+module ItunesCsv
   VERSION = "0.0.1"
 end

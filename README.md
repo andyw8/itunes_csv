@@ -1,4 +1,4 @@
-# ItunesToCsv
+# iTunes CSV
 
 TODO: Write a gem description
 
@@ -6,7 +6,7 @@ TODO: Write a gem description
 
 Add this line to your application's Gemfile:
 
-    gem 'itunes_to_csv'
+    gem 'itunes_csv'
 
 And then execute:
 
@@ -14,11 +14,13 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install itunes_to_csv
+    $ gem install itunes_csv
 
 ## Usage
 
-TODO: Write usage instructions here
+   $ itunes_csv [iTunes Libary Path]
+
+If a path is not given, the default will be `~/Music/iTunes/iTunes Music Library.xml`
 
 ## Contributing
 
