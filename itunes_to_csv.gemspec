@@ -14,4 +14,5 @@ Gem::Specification.new do |gem|
   gem.name          = "itunes_to_csv"
   gem.require_paths = ["lib"]
   gem.version       = ItunesToCsv::VERSION
+  gem.add_dependency "itunes-library"
 end
