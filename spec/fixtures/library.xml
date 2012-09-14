@@ -1,0 +1,4276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>9.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>2F53F64BF8F197E4</string>
+	<key>Tracks</key>
+	<dict>
+		<key>7358</key>
+		<dict>
+			<key>Track ID</key><integer>7358</integer>
+			<key>Name</key><string>Life In Technicolor</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album</key><string>Viva la Vida</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4859544</integer>
+			<key>Total Time</key><integer>149080</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-09-11T04:24:30Z</date>
+			<key>Date Added</key><date>2010-04-24T13:22:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>56EBC325DFAF27E3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Coldplay/Viva%20la%20Vida/01%20Life%20In%20Technicolor.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7365</key>
+		<dict>
+			<key>Track ID</key><integer>7365</integer>
+			<key>Name</key><string>Cemeteries of London</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album</key><string>Viva la Vida</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6604303</integer>
+			<key>Total Time</key><integer>201247</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-09-11T04:24:30Z</date>
+			<key>Date Added</key><date>2010-04-24T13:22:02Z</date>
+			<key>Bit Rate</key><integer>259</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EC03C5558DA25539</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Coldplay/Viva%20la%20Vida/02%20Cemeteries%20of%20London.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7370</key>
+		<dict>
+			<key>Track ID</key><integer>7370</integer>
+			<key>Name</key><string>Lost!</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album</key><string>Viva la Vida</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7568730</integer>
+			<key>Total Time</key><integer>235102</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-09-11T04:24:30Z</date>
+			<key>Date Added</key><date>2010-04-24T13:22:02Z</date>
+			<key>Bit Rate</key><integer>254</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8E33F7AC24BBCF6D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Coldplay/Viva%20la%20Vida/03%20Lost!.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7375</key>
+		<dict>
+			<key>Track ID</key><integer>7375</integer>
+			<key>Name</key><string>42</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album</key><string>Viva la Vida</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7690530</integer>
+			<key>Total Time</key><integer>237505</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-09-11T04:24:30Z</date>
+			<key>Date Added</key><date>2010-04-24T13:22:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B03C9E0157AEB40A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Coldplay/Viva%20la%20Vida/04%2042.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7380</key>
+		<dict>
+			<key>Track ID</key><integer>7380</integer>
+			<key>Name</key><string>Lovers In Japan / Reign of Love</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album</key><string>Viva la Vida</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13185492</integer>
+			<key>Total Time</key><integer>411010</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-09-11T04:24:31Z</date>
+			<key>Date Added</key><date>2010-04-24T13:22:02Z</date>
+			<key>Bit Rate</key><integer>255</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D52815A7C34A1FAD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Coldplay/Viva%20la%20Vida/05%20Lovers%20In%20Japan%20_%20Reign%20of%20Love.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7385</key>
+		<dict>
+			<key>Track ID</key><integer>7385</integer>
+			<key>Name</key><string>Yes</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album</key><string>Viva la Vida</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>14461360</integer>
+			<key>Total Time</key><integer>426762</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-09-11T04:24:31Z</date>
+			<key>Date Added</key><date>2010-04-24T13:22:02Z</date>
+			<key>Bit Rate</key><integer>269</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8C6DBE80B5213CC4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Coldplay/Viva%20la%20Vida/06%20Yes.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7390</key>
+		<dict>
+			<key>Track ID</key><integer>7390</integer>
+			<key>Name</key><string>Viva la Vida</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album</key><string>Viva la Vida</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7778160</integer>
+			<key>Total Time</key><integer>241475</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-09-11T04:24:31Z</date>
+			<key>Date Added</key><date>2010-04-24T13:22:03Z</date>
+			<key>Bit Rate</key><integer>254</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>64F642CE025D7842</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Coldplay/Viva%20la%20Vida/07%20Viva%20la%20Vida.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7395</key>
+		<dict>
+			<key>Track ID</key><integer>7395</integer>
+			<key>Name</key><string>Violet Hill</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album</key><string>Viva la Vida</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6575618</integer>
+			<key>Total Time</key><integer>222641</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-09-11T04:24:31Z</date>
+			<key>Date Added</key><date>2010-04-24T13:22:03Z</date>
+			<key>Bit Rate</key><integer>233</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A913A4D52F24112A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Coldplay/Viva%20la%20Vida/08%20Violet%20Hill.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7400</key>
+		<dict>
+			<key>Track ID</key><integer>7400</integer>
+			<key>Name</key><string>Strawberry Swing</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album</key><string>Viva la Vida</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7743498</integer>
+			<key>Total Time</key><integer>249756</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-09-11T04:24:31Z</date>
+			<key>Date Added</key><date>2010-04-24T13:22:03Z</date>
+			<key>Bit Rate</key><integer>245</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>89BC208319258DAF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Coldplay/Viva%20la%20Vida/09%20Strawberry%20Swing.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7405</key>
+		<dict>
+			<key>Track ID</key><integer>7405</integer>
+			<key>Name</key><string>Death and All His Friends</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album</key><string>Viva la Vida</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10852156</integer>
+			<key>Total Time</key><integer>383843</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-09-11T04:24:31Z</date>
+			<key>Date Added</key><date>2010-04-24T13:22:03Z</date>
+			<key>Bit Rate</key><integer>224</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7D7CAC9E5FC318B5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Coldplay/Viva%20la%20Vida/10%20Death%20and%20All%20His%20Friends.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7430</key>
+		<dict>
+			<key>Track ID</key><integer>7430</integer>
+			<key>Name</key><string>Grux</string>
+			<key>Artist</key><string>Dave Matthews Band</string>
+			<key>Composer</key><string>Dave Matthews Band</string>
+			<key>Album</key><string>Big Whiskey and the GrooGrux King</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2526013</integer>
+			<key>Total Time</key><integer>71888</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-06-02T18:41:15Z</date>
+			<key>Date Added</key><date>2010-04-24T13:22:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>891BE0D625AF9C08</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Dave%20Matthews%20Band/Big%20Whiskey%20and%20the%20GrooGrux%20King/01%20Grux.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7437</key>
+		<dict>
+			<key>Track ID</key><integer>7437</integer>
+			<key>Name</key><string>Shake Me Like a Monkey</string>
+			<key>Artist</key><string>Dave Matthews Band</string>
+			<key>Composer</key><string>David J. Matthews, Boyd Tinsley, Stefan Lessard, Rashawn Ross, Carter Beauford &#38; Leroi Moore</string>
+			<key>Album</key><string>Big Whiskey and the GrooGrux King</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7935260</integer>
+			<key>Total Time</key><integer>240927</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-06-02T18:41:15Z</date>
+			<key>Date Added</key><date>2010-04-24T13:22:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E2025A056217A74E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Dave%20Matthews%20Band/Big%20Whiskey%20and%20the%20GrooGrux%20King/02%20Shake%20Me%20Like%20a%20Monkey.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7442</key>
+		<dict>
+			<key>Track ID</key><integer>7442</integer>
+			<key>Name</key><string>Funny the Way It Is</string>
+			<key>Artist</key><string>Dave Matthews Band</string>
+			<key>Composer</key><string>David J. Matthews, Tim Reynolds, Boyd Tinsley, Stefan Lessard, Carter Beauford &#38; Leroi Moore</string>
+			<key>Album</key><string>Big Whiskey and the GrooGrux King</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8760308</integer>
+			<key>Total Time</key><integer>266710</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-06-02T18:41:15Z</date>
+			<key>Date Added</key><date>2010-04-24T13:22:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>611BEE35A0B3F0D0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Dave%20Matthews%20Band/Big%20Whiskey%20and%20the%20GrooGrux%20King/03%20Funny%20the%20Way%20It%20Is.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7447</key>
+		<dict>
+			<key>Track ID</key><integer>7447</integer>
+			<key>Name</key><string>Lying In the Hands of God</string>
+			<key>Artist</key><string>Dave Matthews Band</string>
+			<key>Composer</key><string>David J. Matthews, Tim Reynolds, Boyd Tinsley, Stefan Lessard, Carter Beauford &#38; Leroi Moore</string>
+			<key>Album</key><string>Big Whiskey and the GrooGrux King</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10254936</integer>
+			<key>Total Time</key><integer>313417</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-06-02T18:41:15Z</date>
+			<key>Date Added</key><date>2010-04-24T13:22:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>35DD3EF4020B970C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Dave%20Matthews%20Band/Big%20Whiskey%20and%20the%20GrooGrux%20King/04%20Lying%20In%20the%20Hands%20of%20God.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7452</key>
+		<dict>
+			<key>Track ID</key><integer>7452</integer>
+			<key>Name</key><string>Why I Am</string>
+			<key>Artist</key><string>Dave Matthews Band</string>
+			<key>Composer</key><string>David J. Matthews, Tim Reynolds, Boyd Tinsley, Stefan Lessard, Carter Beauford &#38; Leroi Moore</string>
+			<key>Album</key><string>Big Whiskey and the GrooGrux King</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7701189</integer>
+			<key>Total Time</key><integer>233613</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-06-02T18:41:15Z</date>
+			<key>Date Added</key><date>2010-04-24T13:22:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7B63C2FCBF102EF7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Dave%20Matthews%20Band/Big%20Whiskey%20and%20the%20GrooGrux%20King/05%20Why%20I%20Am.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7457</key>
+		<dict>
+			<key>Track ID</key><integer>7457</integer>
+			<key>Name</key><string>Dive In</string>
+			<key>Artist</key><string>Dave Matthews Band</string>
+			<key>Composer</key><string>David J. Matthews &#38; Carter Beauford</string>
+			<key>Album</key><string>Big Whiskey and the GrooGrux King</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8761968</integer>
+			<key>Total Time</key><integer>266762</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-06-02T18:41:16Z</date>
+			<key>Date Added</key><date>2010-04-24T13:22:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B181EAA24DCFD32A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Dave%20Matthews%20Band/Big%20Whiskey%20and%20the%20GrooGrux%20King/06%20Dive%20In.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7462</key>
+		<dict>
+			<key>Track ID</key><integer>7462</integer>
+			<key>Name</key><string>Spaceman</string>
+			<key>Artist</key><string>Dave Matthews Band</string>
+			<key>Composer</key><string>David J. Matthews, Stefan Lessard &#38; Carter Beauford</string>
+			<key>Album</key><string>Big Whiskey and the GrooGrux King</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8170975</integer>
+			<key>Total Time</key><integer>248293</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-06-02T18:41:16Z</date>
+			<key>Date Added</key><date>2010-04-24T13:22:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0FDC06EAB93299E5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Dave%20Matthews%20Band/Big%20Whiskey%20and%20the%20GrooGrux%20King/07%20Spaceman.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7467</key>
+		<dict>
+			<key>Track ID</key><integer>7467</integer>
+			<key>Name</key><string>Squirm</string>
+			<key>Artist</key><string>Dave Matthews Band</string>
+			<key>Composer</key><string>David J. Matthews &#38; Carter Beauford</string>
+			<key>Album</key><string>Big Whiskey and the GrooGrux King</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10859286</integer>
+			<key>Total Time</key><integer>332303</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-06-02T18:41:16Z</date>
+			<key>Date Added</key><date>2010-04-24T13:22:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D65B64A8F358B74C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Dave%20Matthews%20Band/Big%20Whiskey%20and%20the%20GrooGrux%20King/08%20Squirm.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7472</key>
+		<dict>
+			<key>Track ID</key><integer>7472</integer>
+			<key>Name</key><string>Alligator Pie (Cockadile)</string>
+			<key>Artist</key><string>Dave Matthews Band</string>
+			<key>Composer</key><string>David J. Matthews, Stefan Lessard &#38; Carter Beauford</string>
+			<key>Album</key><string>Big Whiskey and the GrooGrux King</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7876736</integer>
+			<key>Total Time</key><integer>239098</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-06-02T18:41:16Z</date>
+			<key>Date Added</key><date>2010-04-24T13:22:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>20D0618B8960ECBC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Dave%20Matthews%20Band/Big%20Whiskey%20and%20the%20GrooGrux%20King/09%20Alligator%20Pie%20(Cockadile).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7477</key>
+		<dict>
+			<key>Track ID</key><integer>7477</integer>
+			<key>Name</key><string>Seven</string>
+			<key>Artist</key><string>Dave Matthews Band</string>
+			<key>Composer</key><string>David J. Matthews, Tim Reynolds, Stefan Lessard, Carter Beauford &#38; Leroi Moore</string>
+			<key>Album</key><string>Big Whiskey and the GrooGrux King</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8452678</integer>
+			<key>Total Time</key><integer>257097</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-06-02T18:41:16Z</date>
+			<key>Date Added</key><date>2010-04-24T13:22:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1AF11DBFFFD8C456</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Dave%20Matthews%20Band/Big%20Whiskey%20and%20the%20GrooGrux%20King/10%20Seven.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7482</key>
+		<dict>
+			<key>Track ID</key><integer>7482</integer>
+			<key>Name</key><string>Time Bomb</string>
+			<key>Artist</key><string>Dave Matthews Band</string>
+			<key>Composer</key><string>David J. Matthews</string>
+			<key>Album</key><string>Big Whiskey and the GrooGrux King</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7887601</integer>
+			<key>Total Time</key><integer>239438</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-06-02T18:41:17Z</date>
+			<key>Date Added</key><date>2010-04-24T13:22:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0A494D2CD82F461F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Dave%20Matthews%20Band/Big%20Whiskey%20and%20the%20GrooGrux%20King/11%20Time%20Bomb.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7487</key>
+		<dict>
+			<key>Track ID</key><integer>7487</integer>
+			<key>Name</key><string>My Baby Blue</string>
+			<key>Artist</key><string>Dave Matthews Band</string>
+			<key>Composer</key><string>David J. Matthews, Tim Reynolds, Boyd Tinsley, Stefan Lessard, Carter Beauford &#38; Leroi Moore</string>
+			<key>Album</key><string>Big Whiskey and the GrooGrux King</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7315833</integer>
+			<key>Total Time</key><integer>221570</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-06-02T18:41:17Z</date>
+			<key>Date Added</key><date>2010-04-24T13:22:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DD480065D7100139</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Dave%20Matthews%20Band/Big%20Whiskey%20and%20the%20GrooGrux%20King/12%20My%20Baby%20Blue.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7492</key>
+		<dict>
+			<key>Track ID</key><integer>7492</integer>
+			<key>Name</key><string>You and Me</string>
+			<key>Artist</key><string>Dave Matthews Band</string>
+			<key>Composer</key><string>David J. Matthews</string>
+			<key>Album</key><string>Big Whiskey and the GrooGrux King</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11125112</integer>
+			<key>Total Time</key><integer>340610</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-06-02T18:41:17Z</date>
+			<key>Date Added</key><date>2010-04-24T13:22:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B8C894E3DC635FA7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Dave%20Matthews%20Band/Big%20Whiskey%20and%20the%20GrooGrux%20King/13%20You%20and%20Me.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7523</key>
+		<dict>
+			<key>Track ID</key><integer>7523</integer>
+			<key>Name</key><string>All My Life</string>
+			<key>Artist</key><string>Foo Fighters</string>
+			<key>Composer</key><string>Foo Fighters</string>
+			<key>Album</key><string>Foo Fighters: Greatest Hits</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8181851</integer>
+			<key>Total Time</key><integer>263601</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-12-02T14:33:01Z</date>
+			<key>Date Added</key><date>2010-04-24T13:22:36Z</date>
+			<key>Bit Rate</key><integer>246</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CAECB147F5C7BDAF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Foo%20Fighters/Foo%20Fighters_%20Greatest%20Hits/01%20All%20My%20Life.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7530</key>
+		<dict>
+			<key>Track ID</key><integer>7530</integer>
+			<key>Name</key><string>Best of You</string>
+			<key>Artist</key><string>Foo Fighters</string>
+			<key>Composer</key><string>Foo Fighters</string>
+			<key>Album</key><string>Foo Fighters: Greatest Hits</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7939930</integer>
+			<key>Total Time</key><integer>255033</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-12-02T14:33:57Z</date>
+			<key>Date Added</key><date>2010-04-24T13:22:36Z</date>
+			<key>Bit Rate</key><integer>247</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CC1CD33368851117</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Foo%20Fighters/Foo%20Fighters_%20Greatest%20Hits/02%20Best%20of%20You.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7535</key>
+		<dict>
+			<key>Track ID</key><integer>7535</integer>
+			<key>Name</key><string>Everlong</string>
+			<key>Artist</key><string>Foo Fighters</string>
+			<key>Composer</key><string>Dave Grohl</string>
+			<key>Album</key><string>Foo Fighters: Greatest Hits</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7704864</integer>
+			<key>Total Time</key><integer>250044</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-12-02T14:33:01Z</date>
+			<key>Date Added</key><date>2010-04-24T13:22:36Z</date>
+			<key>Bit Rate</key><integer>244</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>721395C396E22155</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Foo%20Fighters/Foo%20Fighters_%20Greatest%20Hits/03%20Everlong.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7540</key>
+		<dict>
+			<key>Track ID</key><integer>7540</integer>
+			<key>Name</key><string>The Pretender</string>
+			<key>Artist</key><string>Foo Fighters</string>
+			<key>Composer</key><string>Foo Fighters</string>
+			<key>Album</key><string>Foo Fighters: Greatest Hits</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8170698</integer>
+			<key>Total Time</key><integer>267415</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-12-02T14:33:01Z</date>
+			<key>Date Added</key><date>2010-04-24T13:22:36Z</date>
+			<key>Bit Rate</key><integer>242</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Pretender</string>
+			<key>Persistent ID</key><string>996D4F6D83364874</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Foo%20Fighters/Foo%20Fighters_%20Greatest%20Hits/04%20The%20Pretender.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7545</key>
+		<dict>
+			<key>Track ID</key><integer>7545</integer>
+			<key>Name</key><string>My Hero</string>
+			<key>Artist</key><string>Foo Fighters</string>
+			<key>Composer</key><string>Dave Grohl</string>
+			<key>Album</key><string>Foo Fighters: Greatest Hits</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8099237</integer>
+			<key>Total Time</key><integer>259030</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-12-02T14:33:01Z</date>
+			<key>Date Added</key><date>2010-04-24T13:22:36Z</date>
+			<key>Bit Rate</key><integer>248</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A197DE98F416F4C3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Foo%20Fighters/Foo%20Fighters_%20Greatest%20Hits/05%20My%20Hero.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7550</key>
+		<dict>
+			<key>Track ID</key><integer>7550</integer>
+			<key>Name</key><string>Learn to Fly</string>
+			<key>Artist</key><string>Foo Fighters</string>
+			<key>Composer</key><string>Foo Fighters</string>
+			<key>Album</key><string>Foo Fighters: Greatest Hits</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7268238</integer>
+			<key>Total Time</key><integer>234840</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-12-02T14:34:46Z</date>
+			<key>Date Added</key><date>2010-04-24T13:22:36Z</date>
+			<key>Bit Rate</key><integer>245</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5BD9F31DDEB8A585</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Foo%20Fighters/Foo%20Fighters_%20Greatest%20Hits/06%20Learn%20to%20Fly.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7555</key>
+		<dict>
+			<key>Track ID</key><integer>7555</integer>
+			<key>Name</key><string>Times Like These</string>
+			<key>Artist</key><string>Foo Fighters</string>
+			<key>Composer</key><string>Foo Fighters</string>
+			<key>Album</key><string>Foo Fighters: Greatest Hits</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8231937</integer>
+			<key>Total Time</key><integer>268016</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-12-02T14:33:01Z</date>
+			<key>Date Added</key><date>2010-04-24T13:22:36Z</date>
+			<key>Bit Rate</key><integer>244</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BC956C58C3B2C16A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Foo%20Fighters/Foo%20Fighters_%20Greatest%20Hits/07%20Times%20Like%20These.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7560</key>
+		<dict>
+			<key>Track ID</key><integer>7560</integer>
+			<key>Name</key><string>Monkey Wrench</string>
+			<key>Artist</key><string>Foo Fighters</string>
+			<key>Composer</key><string>Dave Grohl</string>
+			<key>Album</key><string>Foo Fighters: Greatest Hits</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7169817</integer>
+			<key>Total Time</key><integer>230870</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-12-02T14:33:01Z</date>
+			<key>Date Added</key><date>2010-04-24T13:22:36Z</date>
+			<key>Bit Rate</key><integer>246</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>59020D0CA7F33347</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Foo%20Fighters/Foo%20Fighters_%20Greatest%20Hits/08%20Monkey%20Wrench.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7565</key>
+		<dict>
+			<key>Track ID</key><integer>7565</integer>
+			<key>Name</key><string>Big Me</string>
+			<key>Artist</key><string>Foo Fighters</string>
+			<key>Composer</key><string>Dave Grohl</string>
+			<key>Album</key><string>Foo Fighters: Greatest Hits</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4130318</integer>
+			<key>Total Time</key><integer>132388</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-12-02T14:33:01Z</date>
+			<key>Date Added</key><date>2010-04-24T13:22:36Z</date>
+			<key>Bit Rate</key><integer>246</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5FCA403D01826F8E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Foo%20Fighters/Foo%20Fighters_%20Greatest%20Hits/09%20Big%20Me.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7570</key>
+		<dict>
+			<key>Track ID</key><integer>7570</integer>
+			<key>Name</key><string>Breakout</string>
+			<key>Artist</key><string>Foo Fighters</string>
+			<key>Composer</key><string>Foo Fighters</string>
+			<key>Album</key><string>Foo Fighters: Greatest Hits</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6241834</integer>
+			<key>Total Time</key><integer>200881</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-12-02T14:33:01Z</date>
+			<key>Date Added</key><date>2010-04-24T13:22:36Z</date>
+			<key>Bit Rate</key><integer>246</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8CC3571A795C5A6A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Foo%20Fighters/Foo%20Fighters_%20Greatest%20Hits/10%20Breakout.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7575</key>
+		<dict>
+			<key>Track ID</key><integer>7575</integer>
+			<key>Name</key><string>Long Road to Ruin</string>
+			<key>Artist</key><string>Foo Fighters</string>
+			<key>Composer</key><string>Foo Fighters</string>
+			<key>Album</key><string>Foo Fighters: Greatest Hits</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6957534</integer>
+			<key>Total Time</key><integer>228388</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-12-02T14:35:21Z</date>
+			<key>Date Added</key><date>2010-04-24T13:22:36Z</date>
+			<key>Bit Rate</key><integer>241</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A1834CD971FF2DD9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Foo%20Fighters/Foo%20Fighters_%20Greatest%20Hits/11%20Long%20Road%20to%20Ruin.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7580</key>
+		<dict>
+			<key>Track ID</key><integer>7580</integer>
+			<key>Name</key><string>This Is A Call</string>
+			<key>Artist</key><string>Foo Fighters</string>
+			<key>Composer</key><string>Dave Grohl</string>
+			<key>Album</key><string>Foo Fighters: Greatest Hits</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7157786</integer>
+			<key>Total Time</key><integer>233116</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-12-02T14:33:01Z</date>
+			<key>Date Added</key><date>2010-04-24T13:22:36Z</date>
+			<key>Bit Rate</key><integer>243</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>61B3B0D2C53E3B57</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Foo%20Fighters/Foo%20Fighters_%20Greatest%20Hits/12%20This%20Is%20A%20Call.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7585</key>
+		<dict>
+			<key>Track ID</key><integer>7585</integer>
+			<key>Name</key><string>Skin and Bones</string>
+			<key>Artist</key><string>Foo Fighters</string>
+			<key>Composer</key><string>Dave Grohl</string>
+			<key>Album</key><string>Foo Fighters: Greatest Hits</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7558092</integer>
+			<key>Total Time</key><integer>242416</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-12-02T14:35:38Z</date>
+			<key>Date Added</key><date>2010-04-24T13:22:36Z</date>
+			<key>Bit Rate</key><integer>247</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A0C9C290FE6EA008</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Foo%20Fighters/Foo%20Fighters_%20Greatest%20Hits/13%20Skin%20and%20Bones.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7590</key>
+		<dict>
+			<key>Track ID</key><integer>7590</integer>
+			<key>Name</key><string>Wheels</string>
+			<key>Artist</key><string>Foo Fighters</string>
+			<key>Composer</key><string>Foo Fighters</string>
+			<key>Album</key><string>Foo Fighters: Greatest Hits</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8585813</integer>
+			<key>Total Time</key><integer>278256</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-12-02T14:33:01Z</date>
+			<key>Date Added</key><date>2010-04-24T13:22:36Z</date>
+			<key>Bit Rate</key><integer>245</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7FFE096C3A858D45</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Foo%20Fighters/Foo%20Fighters_%20Greatest%20Hits/14%20Wheels.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7595</key>
+		<dict>
+			<key>Track ID</key><integer>7595</integer>
+			<key>Name</key><string>Word Forward</string>
+			<key>Artist</key><string>Foo Fighters</string>
+			<key>Composer</key><string>Foo Fighters</string>
+			<key>Album</key><string>Foo Fighters: Greatest Hits</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6923871</integer>
+			<key>Total Time</key><integer>226690</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-12-02T14:33:01Z</date>
+			<key>Date Added</key><date>2010-04-24T13:22:36Z</date>
+			<key>Bit Rate</key><integer>242</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E52580137D585639</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Foo%20Fighters/Foo%20Fighters_%20Greatest%20Hits/15%20Word%20Forward.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7630</key>
+		<dict>
+			<key>Track ID</key><integer>7630</integer>
+			<key>Name</key><string>Everlong (Acoustic Version)</string>
+			<key>Artist</key><string>Foo Fighters</string>
+			<key>Composer</key><string>Dave Grohl</string>
+			<key>Album</key><string>Foo Fighters: Greatest Hits</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7859859</integer>
+			<key>Total Time</key><integer>250958</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-12-02T14:36:08Z</date>
+			<key>Date Added</key><date>2010-04-24T13:22:41Z</date>
+			<key>Bit Rate</key><integer>248</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>(Acoustic Version)</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BBF27AB9148D2472</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Foo%20Fighters/Foo%20Fighters_%20Greatest%20Hits/16%20Everlong%20(Acoustic%20Version).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7635</key>
+		<dict>
+			<key>Track ID</key><integer>7635</integer>
+			<key>Name</key><string>Have A Cigar</string>
+			<key>Artist</key><string>Foo Fighters</string>
+			<key>Composer</key><string>Roger Waters</string>
+			<key>Album</key><string>Foo Fighters: Greatest Hits</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7349063</integer>
+			<key>Total Time</key><integer>238184</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-12-02T14:36:22Z</date>
+			<key>Date Added</key><date>2010-04-24T13:22:41Z</date>
+			<key>Bit Rate</key><integer>245</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AD7CB88F1A0AC7DA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Foo%20Fighters/Foo%20Fighters_%20Greatest%20Hits/17%20Have%20A%20Cigar.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7644</key>
+		<dict>
+			<key>Track ID</key><integer>7644</integer>
+			<key>Name</key><string>Inaudible Melodies</string>
+			<key>Artist</key><string>Jack Johnson</string>
+			<key>Album Artist</key><string>Jack Johnson</string>
+			<key>Composer</key><string>Jack Johnson</string>
+			<key>Album</key><string>Brushfire Fairytales</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5962477</integer>
+			<key>Total Time</key><integer>215431</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2008-01-31T19:55:38Z</date>
+			<key>Date Added</key><date>2010-04-24T13:23:01Z</date>
+			<key>Bit Rate</key><integer>215</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C9522B616DDB59E0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Jack%20Johnson/Brushfire%20Fairytales/01%20Inaudible%20Melodies.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7651</key>
+		<dict>
+			<key>Track ID</key><integer>7651</integer>
+			<key>Name</key><string>Middle Man</string>
+			<key>Artist</key><string>Jack Johnson</string>
+			<key>Album Artist</key><string>Jack Johnson</string>
+			<key>Composer</key><string>Jack Johnson</string>
+			<key>Album</key><string>Brushfire Fairytales</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5430128</integer>
+			<key>Total Time</key><integer>194873</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2008-01-31T19:55:35Z</date>
+			<key>Date Added</key><date>2010-04-24T13:23:01Z</date>
+			<key>Bit Rate</key><integer>216</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CC01FA5154B60089</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Jack%20Johnson/Brushfire%20Fairytales/02%20Middle%20Man.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7656</key>
+		<dict>
+			<key>Track ID</key><integer>7656</integer>
+			<key>Name</key><string>Posters</string>
+			<key>Artist</key><string>Jack Johnson</string>
+			<key>Album Artist</key><string>Jack Johnson</string>
+			<key>Composer</key><string>Jack Johnson</string>
+			<key>Album</key><string>Brushfire Fairytales</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5330795</integer>
+			<key>Total Time</key><integer>193906</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2008-01-31T19:55:36Z</date>
+			<key>Date Added</key><date>2010-04-24T13:23:01Z</date>
+			<key>Bit Rate</key><integer>213</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CD5CF74F96A84435</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Jack%20Johnson/Brushfire%20Fairytales/03%20Posters.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7661</key>
+		<dict>
+			<key>Track ID</key><integer>7661</integer>
+			<key>Name</key><string>Sexy Plexi</string>
+			<key>Artist</key><string>Jack Johnson</string>
+			<key>Album Artist</key><string>Jack Johnson</string>
+			<key>Composer</key><string>Jack Johnson</string>
+			<key>Album</key><string>Brushfire Fairytales</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3502946</integer>
+			<key>Total Time</key><integer>127686</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2008-01-31T19:55:36Z</date>
+			<key>Date Added</key><date>2010-04-24T13:23:01Z</date>
+			<key>Bit Rate</key><integer>209</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0BD5601EB4BA6AB6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Jack%20Johnson/Brushfire%20Fairytales/04%20Sexy%20Plexi.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7666</key>
+		<dict>
+			<key>Track ID</key><integer>7666</integer>
+			<key>Name</key><string>Flake</string>
+			<key>Artist</key><string>Jack Johnson</string>
+			<key>Album Artist</key><string>Jack Johnson</string>
+			<key>Composer</key><string>Jack Johnson</string>
+			<key>Album</key><string>Brushfire Fairytales</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7837045</integer>
+			<key>Total Time</key><integer>280894</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2008-01-31T19:55:36Z</date>
+			<key>Date Added</key><date>2010-04-24T13:23:01Z</date>
+			<key>Bit Rate</key><integer>218</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>717C342F6DFEDB1D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Jack%20Johnson/Brushfire%20Fairytales/05%20Flake.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7671</key>
+		<dict>
+			<key>Track ID</key><integer>7671</integer>
+			<key>Name</key><string>Bubble Toes</string>
+			<key>Artist</key><string>Jack Johnson</string>
+			<key>Album Artist</key><string>Jack Johnson</string>
+			<key>Composer</key><string>Jack Johnson</string>
+			<key>Album</key><string>Brushfire Fairytales</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6151146</integer>
+			<key>Total Time</key><integer>236956</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2008-01-31T19:55:36Z</date>
+			<key>Date Added</key><date>2010-04-24T13:23:01Z</date>
+			<key>Bit Rate</key><integer>202</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AD8F1DF46F53134C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Jack%20Johnson/Brushfire%20Fairytales/06%20Bubble%20Toes.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7676</key>
+		<dict>
+			<key>Track ID</key><integer>7676</integer>
+			<key>Name</key><string>Fortunate Fool</string>
+			<key>Artist</key><string>Jack Johnson</string>
+			<key>Album Artist</key><string>Jack Johnson</string>
+			<key>Composer</key><string>Jack Johnson</string>
+			<key>Album</key><string>Brushfire Fairytales</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5820188</integer>
+			<key>Total Time</key><integer>228884</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2008-01-31T19:55:36Z</date>
+			<key>Date Added</key><date>2010-04-24T13:23:01Z</date>
+			<key>Bit Rate</key><integer>197</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B589D052000BA2F6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Jack%20Johnson/Brushfire%20Fairytales/07%20Fortunate%20Fool.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7681</key>
+		<dict>
+			<key>Track ID</key><integer>7681</integer>
+			<key>Name</key><string>The News</string>
+			<key>Artist</key><string>Jack Johnson</string>
+			<key>Album Artist</key><string>Jack Johnson</string>
+			<key>Composer</key><string>Jack Johnson</string>
+			<key>Album</key><string>Brushfire Fairytales</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3211205</integer>
+			<key>Total Time</key><integer>146155</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2008-01-31T19:55:37Z</date>
+			<key>Date Added</key><date>2010-04-24T13:23:01Z</date>
+			<key>Bit Rate</key><integer>166</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>News</string>
+			<key>Persistent ID</key><string>7D44192E18E9EA7F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Jack%20Johnson/Brushfire%20Fairytales/08%20The%20News.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7686</key>
+		<dict>
+			<key>Track ID</key><integer>7686</integer>
+			<key>Name</key><string>Drink the Water</string>
+			<key>Artist</key><string>Jack Johnson</string>
+			<key>Album Artist</key><string>Jack Johnson</string>
+			<key>Composer</key><string>Jack Johnson</string>
+			<key>Album</key><string>Brushfire Fairytales</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5491207</integer>
+			<key>Total Time</key><integer>201822</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2008-01-31T19:55:37Z</date>
+			<key>Date Added</key><date>2010-04-24T13:23:01Z</date>
+			<key>Bit Rate</key><integer>211</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>932C37A8AF680109</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Jack%20Johnson/Brushfire%20Fairytales/09%20Drink%20the%20Water.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7691</key>
+		<dict>
+			<key>Track ID</key><integer>7691</integer>
+			<key>Name</key><string>Mudfootball (For Moe Lerner)</string>
+			<key>Artist</key><string>Jack Johnson</string>
+			<key>Album Artist</key><string>Jack Johnson</string>
+			<key>Composer</key><string>Jack Johnson</string>
+			<key>Album</key><string>Brushfire Fairytales</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4991006</integer>
+			<key>Total Time</key><integer>183745</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2008-01-31T19:55:37Z</date>
+			<key>Date Added</key><date>2010-04-24T13:23:01Z</date>
+			<key>Bit Rate</key><integer>210</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>851F248EB51703DB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Jack%20Johnson/Brushfire%20Fairytales/10%20Mudfootball%20(For%20Moe%20Lerner).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7696</key>
+		<dict>
+			<key>Track ID</key><integer>7696</integer>
+			<key>Name</key><string>F-Stop Blues</string>
+			<key>Artist</key><string>Jack Johnson</string>
+			<key>Album Artist</key><string>Jack Johnson</string>
+			<key>Composer</key><string>Jack Johnson</string>
+			<key>Album</key><string>Brushfire Fairytales</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4585645</integer>
+			<key>Total Time</key><integer>190484</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2008-01-31T19:55:37Z</date>
+			<key>Date Added</key><date>2010-04-24T13:23:01Z</date>
+			<key>Bit Rate</key><integer>185</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>92127D611C536AAC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Jack%20Johnson/Brushfire%20Fairytales/11%20F-Stop%20Blues.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7701</key>
+		<dict>
+			<key>Track ID</key><integer>7701</integer>
+			<key>Name</key><string>Losing Hope</string>
+			<key>Artist</key><string>Jack Johnson</string>
+			<key>Album Artist</key><string>Jack Johnson</string>
+			<key>Composer</key><string>Jack Johnson</string>
+			<key>Album</key><string>Brushfire Fairytales</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6091321</integer>
+			<key>Total Time</key><integer>232672</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2008-01-31T19:55:37Z</date>
+			<key>Date Added</key><date>2010-04-24T13:23:01Z</date>
+			<key>Bit Rate</key><integer>203</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F79FAC0ECE614CF1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Jack%20Johnson/Brushfire%20Fairytales/12%20Losing%20Hope.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7706</key>
+		<dict>
+			<key>Track ID</key><integer>7706</integer>
+			<key>Name</key><string>It's All Understood</string>
+			<key>Artist</key><string>Jack Johnson</string>
+			<key>Album Artist</key><string>Jack Johnson</string>
+			<key>Composer</key><string>Jack Johnson</string>
+			<key>Album</key><string>Brushfire Fairytales</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8193657</integer>
+			<key>Total Time</key><integer>328202</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2008-01-31T19:55:35Z</date>
+			<key>Date Added</key><date>2010-04-24T13:23:01Z</date>
+			<key>Bit Rate</key><integer>195</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>42B65082B70086ED</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Jack%20Johnson/Brushfire%20Fairytales/13%20It's%20All%20Understood.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7737</key>
+		<dict>
+			<key>Track ID</key><integer>7737</integer>
+			<key>Name</key><string>In Repair</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album</key><string>Continuum</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9602945</integer>
+			<key>Total Time</key><integer>369867</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2008-01-31T19:56:19Z</date>
+			<key>Date Added</key><date>2010-04-24T13:23:22Z</date>
+			<key>Bit Rate</key><integer>207</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DE154C7ADFDA84A2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/John%20Mayer/Continuum/01%20In%20Repair.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7744</key>
+		<dict>
+			<key>Track ID</key><integer>7744</integer>
+			<key>Name</key><string>Waiting On The World To Change</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album</key><string>Continuum</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4865052</integer>
+			<key>Total Time</key><integer>201221</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2008-01-31T19:56:16Z</date>
+			<key>Date Added</key><date>2010-04-24T13:23:22Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5FBF7AE2701E3177</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/John%20Mayer/Continuum/01%20Waiting%20On%20The%20World%20To%20Change.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7749</key>
+		<dict>
+			<key>Track ID</key><integer>7749</integer>
+			<key>Name</key><string>I Don't Trust Myself (With Loving You)</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album</key><string>Continuum</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7064623</integer>
+			<key>Total Time</key><integer>292075</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2008-01-31T19:56:16Z</date>
+			<key>Date Added</key><date>2010-04-24T13:23:22Z</date>
+			<key>Bit Rate</key><integer>193</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2BD6D36CF4F5BB29</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/John%20Mayer/Continuum/02%20I%20Don't%20Trust%20Myself%20(With%20Loving%20You).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7754</key>
+		<dict>
+			<key>Track ID</key><integer>7754</integer>
+			<key>Name</key><string>Belief</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album</key><string>Continuum</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5832550</integer>
+			<key>Total Time</key><integer>242390</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2008-01-31T19:56:17Z</date>
+			<key>Date Added</key><date>2010-04-24T13:23:22Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CB4CDB4DB44E227A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/John%20Mayer/Continuum/03%20Belief.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7759</key>
+		<dict>
+			<key>Track ID</key><integer>7759</integer>
+			<key>Name</key><string>Gravity</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album</key><string>Continuum</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5739511</integer>
+			<key>Total Time</key><integer>245890</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2008-01-31T19:56:17Z</date>
+			<key>Date Added</key><date>2010-04-24T13:23:22Z</date>
+			<key>Bit Rate</key><integer>186</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D1B4DBE4D472E129</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/John%20Mayer/Continuum/04%20Gravity.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7764</key>
+		<dict>
+			<key>Track ID</key><integer>7764</integer>
+			<key>Name</key><string>The Heart Of Life</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album</key><string>Continuum</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4634346</integer>
+			<key>Total Time</key><integer>199209</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2008-01-31T19:56:17Z</date>
+			<key>Date Added</key><date>2010-04-24T13:23:22Z</date>
+			<key>Bit Rate</key><integer>185</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Heart Of Life</string>
+			<key>Persistent ID</key><string>5E964472671EB2ED</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/John%20Mayer/Continuum/05%20The%20Heart%20Of%20Life.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7769</key>
+		<dict>
+			<key>Track ID</key><integer>7769</integer>
+			<key>Name</key><string>Vultures</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album</key><string>Continuum</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6222860</integer>
+			<key>Total Time</key><integer>251872</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2008-01-31T19:56:17Z</date>
+			<key>Date Added</key><date>2010-04-24T13:23:22Z</date>
+			<key>Bit Rate</key><integer>197</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>17641E96E1D96A77</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/John%20Mayer/Continuum/06%20Vultures.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7774</key>
+		<dict>
+			<key>Track ID</key><integer>7774</integer>
+			<key>Name</key><string>Stop This Train</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album</key><string>Continuum</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6533628</integer>
+			<key>Total Time</key><integer>285100</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2008-01-31T19:56:18Z</date>
+			<key>Date Added</key><date>2010-04-24T13:23:22Z</date>
+			<key>Bit Rate</key><integer>183</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6335016117CA1664</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/John%20Mayer/Continuum/07%20Stop%20This%20Train.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7779</key>
+		<dict>
+			<key>Track ID</key><integer>7779</integer>
+			<key>Name</key><string>Slow Dancing In A Burning Room</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album</key><string>Continuum</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5213976</integer>
+			<key>Total Time</key><integer>242050</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2008-01-31T19:56:18Z</date>
+			<key>Date Added</key><date>2010-04-24T13:23:22Z</date>
+			<key>Bit Rate</key><integer>171</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A3B3FB3C7B195700</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/John%20Mayer/Continuum/08%20Slow%20Dancing%20In%20A%20Burning%20Room.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7784</key>
+		<dict>
+			<key>Track ID</key><integer>7784</integer>
+			<key>Name</key><string>Bold As Love</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album</key><string>Continuum</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5924017</integer>
+			<key>Total Time</key><integer>258220</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2008-01-31T19:56:18Z</date>
+			<key>Date Added</key><date>2010-04-24T13:23:22Z</date>
+			<key>Bit Rate</key><integer>183</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B6F1F2B94C509A7B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/John%20Mayer/Continuum/09%20Bold%20As%20Love.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7789</key>
+		<dict>
+			<key>Track ID</key><integer>7789</integer>
+			<key>Name</key><string>Dreaming With A Broken Heart</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album</key><string>Continuum</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6156404</integer>
+			<key>Total Time</key><integer>247875</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2008-01-31T19:56:19Z</date>
+			<key>Date Added</key><date>2010-04-24T13:23:22Z</date>
+			<key>Bit Rate</key><integer>198</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FD18AC475AEE31C4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/John%20Mayer/Continuum/10%20Dreaming%20With%20A%20Broken%20Heart.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7794</key>
+		<dict>
+			<key>Track ID</key><integer>7794</integer>
+			<key>Name</key><string>I'm Gonna Find Another You</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album</key><string>Continuum</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4030320</integer>
+			<key>Total Time</key><integer>163082</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2008-01-31T19:56:16Z</date>
+			<key>Date Added</key><date>2010-04-24T13:23:22Z</date>
+			<key>Bit Rate</key><integer>197</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D5693F03617B3D3D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/John%20Mayer/Continuum/12%20I'm%20Gonna%20Find%20Another%20You.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7823</key>
+		<dict>
+			<key>Track ID</key><integer>7823</integer>
+			<key>Name</key><string>Horn Intro</string>
+			<key>Artist</key><string>Modest Mouse</string>
+			<key>Album</key><string>Good News for People Who Love Bad News</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>258593</integer>
+			<key>Total Time</key><integer>9900</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2008-03-01T23:31:47Z</date>
+			<key>Date Added</key><date>2010-04-24T13:23:32Z</date>
+			<key>Bit Rate</key><integer>196</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0822E70E852B2214</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Modest%20Mouse/Good%20News%20for%20People%20Who%20Love%20Bad%20News/01%20Horn%20Intro.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7830</key>
+		<dict>
+			<key>Track ID</key><integer>7830</integer>
+			<key>Name</key><string>The World At Large</string>
+			<key>Artist</key><string>Modest Mouse</string>
+			<key>Album</key><string>Good News for People Who Love Bad News</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5567772</integer>
+			<key>Total Time</key><integer>272587</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2008-03-01T23:31:47Z</date>
+			<key>Date Added</key><date>2010-04-24T13:23:32Z</date>
+			<key>Bit Rate</key><integer>162</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>World At Large</string>
+			<key>Persistent ID</key><string>CFA05896A9803BE7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Modest%20Mouse/Good%20News%20for%20People%20Who%20Love%20Bad%20News/02%20The%20World%20At%20Large.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7835</key>
+		<dict>
+			<key>Track ID</key><integer>7835</integer>
+			<key>Name</key><string>Float On</string>
+			<key>Artist</key><string>Modest Mouse</string>
+			<key>Album</key><string>Good News for People Who Love Bad News</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5832926</integer>
+			<key>Total Time</key><integer>208535</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2008-03-01T23:31:48Z</date>
+			<key>Date Added</key><date>2010-04-24T13:23:32Z</date>
+			<key>Bit Rate</key><integer>223</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7B354386F932E024</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Modest%20Mouse/Good%20News%20for%20People%20Who%20Love%20Bad%20News/03%20Float%20On.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7840</key>
+		<dict>
+			<key>Track ID</key><integer>7840</integer>
+			<key>Name</key><string>Ocean Breathes Salty</string>
+			<key>Artist</key><string>Modest Mouse</string>
+			<key>Album</key><string>Good News for People Who Love Bad News</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7292907</integer>
+			<key>Total Time</key><integer>224417</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2008-03-01T23:31:48Z</date>
+			<key>Date Added</key><date>2010-04-24T13:23:32Z</date>
+			<key>Bit Rate</key><integer>259</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>45288F3CBA6944C5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Modest%20Mouse/Good%20News%20for%20People%20Who%20Love%20Bad%20News/04%20Ocean%20Breathes%20Salty.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7845</key>
+		<dict>
+			<key>Track ID</key><integer>7845</integer>
+			<key>Name</key><string>Dig Your Grave</string>
+			<key>Artist</key><string>Modest Mouse</string>
+			<key>Album</key><string>Good News for People Who Love Bad News</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>325789</integer>
+			<key>Total Time</key><integer>12956</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2008-03-01T23:31:48Z</date>
+			<key>Date Added</key><date>2010-04-24T13:23:32Z</date>
+			<key>Bit Rate</key><integer>191</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C8B8C1B4C5CABDAB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Modest%20Mouse/Good%20News%20for%20People%20Who%20Love%20Bad%20News/05%20Dig%20Your%20Grave.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7850</key>
+		<dict>
+			<key>Track ID</key><integer>7850</integer>
+			<key>Name</key><string>Bury Me With It</string>
+			<key>Artist</key><string>Modest Mouse</string>
+			<key>Album</key><string>Good News for People Who Love Bad News</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6608215</integer>
+			<key>Total Time</key><integer>229955</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2008-03-01T23:31:48Z</date>
+			<key>Date Added</key><date>2010-04-24T13:23:32Z</date>
+			<key>Bit Rate</key><integer>229</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>865C58665012888F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Modest%20Mouse/Good%20News%20for%20People%20Who%20Love%20Bad%20News/06%20Bury%20Me%20With%20It.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7855</key>
+		<dict>
+			<key>Track ID</key><integer>7855</integer>
+			<key>Name</key><string>Dance Hall</string>
+			<key>Artist</key><string>Modest Mouse</string>
+			<key>Album</key><string>Good News for People Who Love Bad News</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5076341</integer>
+			<key>Total Time</key><integer>177162</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2008-03-01T23:31:48Z</date>
+			<key>Date Added</key><date>2010-04-24T13:23:32Z</date>
+			<key>Bit Rate</key><integer>228</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7487BE77FBFB0869</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Modest%20Mouse/Good%20News%20for%20People%20Who%20Love%20Bad%20News/07%20Dance%20Hall.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7860</key>
+		<dict>
+			<key>Track ID</key><integer>7860</integer>
+			<key>Name</key><string>Bukowski</string>
+			<key>Artist</key><string>Modest Mouse</string>
+			<key>Album</key><string>Good News for People Who Love Bad News</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5990625</integer>
+			<key>Total Time</key><integer>254746</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2008-03-01T23:31:48Z</date>
+			<key>Date Added</key><date>2010-04-24T13:23:32Z</date>
+			<key>Bit Rate</key><integer>187</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>242E8404779BE5F2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Modest%20Mouse/Good%20News%20for%20People%20Who%20Love%20Bad%20News/08%20Bukowski.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7865</key>
+		<dict>
+			<key>Track ID</key><integer>7865</integer>
+			<key>Name</key><string>This Devil's Workday</string>
+			<key>Artist</key><string>Modest Mouse</string>
+			<key>Album</key><string>Good News for People Who Love Bad News</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3319998</integer>
+			<key>Total Time</key><integer>139363</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2008-03-01T23:31:49Z</date>
+			<key>Date Added</key><date>2010-04-24T13:23:32Z</date>
+			<key>Bit Rate</key><integer>189</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2AF1054D72E172CC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Modest%20Mouse/Good%20News%20for%20People%20Who%20Love%20Bad%20News/09%20This%20Devil's%20Workday.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7870</key>
+		<dict>
+			<key>Track ID</key><integer>7870</integer>
+			<key>Name</key><string>The View</string>
+			<key>Artist</key><string>Modest Mouse</string>
+			<key>Album</key><string>Good News for People Who Love Bad News</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7454250</integer>
+			<key>Total Time</key><integer>250200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2008-03-01T23:31:49Z</date>
+			<key>Date Added</key><date>2010-04-24T13:23:32Z</date>
+			<key>Bit Rate</key><integer>237</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>View</string>
+			<key>Persistent ID</key><string>FB84E06137259A6D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Modest%20Mouse/Good%20News%20for%20People%20Who%20Love%20Bad%20News/10%20The%20View.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7875</key>
+		<dict>
+			<key>Track ID</key><integer>7875</integer>
+			<key>Name</key><string>Satin In a Coffin</string>
+			<key>Artist</key><string>Modest Mouse</string>
+			<key>Album</key><string>Good News for People Who Love Bad News</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3514195</integer>
+			<key>Total Time</key><integer>155219</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2008-03-01T23:31:49Z</date>
+			<key>Date Added</key><date>2010-04-24T13:23:32Z</date>
+			<key>Bit Rate</key><integer>180</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4116879762CD9B5B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Modest%20Mouse/Good%20News%20for%20People%20Who%20Love%20Bad%20News/11%20Satin%20In%20a%20Coffin.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7880</key>
+		<dict>
+			<key>Track ID</key><integer>7880</integer>
+			<key>Name</key><string>Interlude (Milo)</string>
+			<key>Artist</key><string>Modest Mouse</string>
+			<key>Album</key><string>Good News for People Who Love Bad News</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1123022</integer>
+			<key>Total Time</key><integer>58984</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2008-03-01T23:31:49Z</date>
+			<key>Date Added</key><date>2010-04-24T13:23:32Z</date>
+			<key>Bit Rate</key><integer>150</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B675E9669F9FB1C2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Modest%20Mouse/Good%20News%20for%20People%20Who%20Love%20Bad%20News/12%20Interlude%20(Milo).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7885</key>
+		<dict>
+			<key>Track ID</key><integer>7885</integer>
+			<key>Name</key><string>Blame It On the Tetons</string>
+			<key>Artist</key><string>Modest Mouse</string>
+			<key>Album</key><string>Good News for People Who Love Bad News</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6768150</integer>
+			<key>Total Time</key><integer>325041</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2008-03-01T23:31:49Z</date>
+			<key>Date Added</key><date>2010-04-24T13:23:32Z</date>
+			<key>Bit Rate</key><integer>166</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>58BBC5D2D2A5C7C8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Modest%20Mouse/Good%20News%20for%20People%20Who%20Love%20Bad%20News/13%20Blame%20It%20On%20the%20Tetons.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7890</key>
+		<dict>
+			<key>Track ID</key><integer>7890</integer>
+			<key>Name</key><string>Black Cadillacs</string>
+			<key>Artist</key><string>Modest Mouse</string>
+			<key>Album</key><string>Good News for People Who Love Bad News</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4153909</integer>
+			<key>Total Time</key><integer>163395</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2008-03-01T23:31:49Z</date>
+			<key>Date Added</key><date>2010-04-24T13:23:32Z</date>
+			<key>Bit Rate</key><integer>202</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A4A91153103C0604</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Modest%20Mouse/Good%20News%20for%20People%20Who%20Love%20Bad%20News/14%20Black%20Cadillacs.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7895</key>
+		<dict>
+			<key>Track ID</key><integer>7895</integer>
+			<key>Name</key><string>One Chance</string>
+			<key>Artist</key><string>Modest Mouse</string>
+			<key>Album</key><string>Good News for People Who Love Bad News</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4791077</integer>
+			<key>Total Time</key><integer>181551</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2008-03-01T23:31:50Z</date>
+			<key>Date Added</key><date>2010-04-24T13:23:32Z</date>
+			<key>Bit Rate</key><integer>210</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F807170646C10F00</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Modest%20Mouse/Good%20News%20for%20People%20Who%20Love%20Bad%20News/15%20One%20Chance.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7900</key>
+		<dict>
+			<key>Track ID</key><integer>7900</integer>
+			<key>Name</key><string>The Good Times Are Killing Me</string>
+			<key>Artist</key><string>Modest Mouse</string>
+			<key>Album</key><string>Good News for People Who Love Bad News</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5184157</integer>
+			<key>Total Time</key><integer>256809</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2008-03-01T23:31:50Z</date>
+			<key>Date Added</key><date>2010-04-24T13:23:32Z</date>
+			<key>Bit Rate</key><integer>161</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Good Times Are Killing Me</string>
+			<key>Persistent ID</key><string>49754E0226A7B8A6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Modest%20Mouse/Good%20News%20for%20People%20Who%20Love%20Bad%20News/16%20The%20Good%20Times%20Are%20Killing%20Me.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7937</key>
+		<dict>
+			<key>Track ID</key><integer>7937</integer>
+			<key>Name</key><string>No One Loves Me &#38; Neither Do I</string>
+			<key>Artist</key><string>Them Crooked Vultures</string>
+			<key>Composer</key><string>Them Crooked Vultures</string>
+			<key>Album</key><string>Them Crooked Vultures</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9982318</integer>
+			<key>Total Time</key><integer>310439</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2010-02-08T04:04:06Z</date>
+			<key>Date Added</key><date>2010-04-24T13:24:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FAA46C6D088D706F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Them%20Crooked%20Vultures/Them%20Crooked%20Vultures/01%20No%20One%20Loves%20Me%20&#38;%20Neither%20Do%20I.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7944</key>
+		<dict>
+			<key>Track ID</key><integer>7944</integer>
+			<key>Name</key><string>Mind Eraser, No Chaser</string>
+			<key>Artist</key><string>Them Crooked Vultures</string>
+			<key>Composer</key><string>Them Crooked Vultures</string>
+			<key>Album</key><string>Them Crooked Vultures</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7949349</integer>
+			<key>Total Time</key><integer>246909</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2010-02-08T04:04:06Z</date>
+			<key>Date Added</key><date>2010-04-24T13:24:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E50BD6C381E767DE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Them%20Crooked%20Vultures/Them%20Crooked%20Vultures/02%20Mind%20Eraser,%20No%20Chaser.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7949</key>
+		<dict>
+			<key>Track ID</key><integer>7949</integer>
+			<key>Name</key><string>New Fang</string>
+			<key>Artist</key><string>Them Crooked Vultures</string>
+			<key>Composer</key><string>Them Crooked Vultures</string>
+			<key>Album</key><string>Them Crooked Vultures</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7367522</integer>
+			<key>Total Time</key><integer>228728</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2010-02-08T04:04:06Z</date>
+			<key>Date Added</key><date>2010-04-24T13:24:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A7FEFAA44F32C1AE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Them%20Crooked%20Vultures/Them%20Crooked%20Vultures/03%20New%20Fang.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7954</key>
+		<dict>
+			<key>Track ID</key><integer>7954</integer>
+			<key>Name</key><string>Dead End Friends</string>
+			<key>Artist</key><string>Them Crooked Vultures</string>
+			<key>Composer</key><string>Them Crooked Vultures</string>
+			<key>Album</key><string>Them Crooked Vultures</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6307593</integer>
+			<key>Total Time</key><integer>195604</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2010-02-08T04:04:06Z</date>
+			<key>Date Added</key><date>2010-04-24T13:24:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>258520BD5E66C317</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Them%20Crooked%20Vultures/Them%20Crooked%20Vultures/04%20Dead%20End%20Friends.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7959</key>
+		<dict>
+			<key>Track ID</key><integer>7959</integer>
+			<key>Name</key><string>Elephants</string>
+			<key>Artist</key><string>Them Crooked Vultures</string>
+			<key>Composer</key><string>Them Crooked Vultures</string>
+			<key>Album</key><string>Them Crooked Vultures</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13163782</integer>
+			<key>Total Time</key><integer>409861</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2010-02-08T04:04:06Z</date>
+			<key>Date Added</key><date>2010-04-24T13:24:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D62287FD7E519818</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Them%20Crooked%20Vultures/Them%20Crooked%20Vultures/05%20Elephants.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7964</key>
+		<dict>
+			<key>Track ID</key><integer>7964</integer>
+			<key>Name</key><string>Scumbag Blues</string>
+			<key>Artist</key><string>Them Crooked Vultures</string>
+			<key>Composer</key><string>Them Crooked Vultures</string>
+			<key>Album</key><string>Them Crooked Vultures</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8557044</integer>
+			<key>Total Time</key><integer>265900</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2010-02-08T04:04:06Z</date>
+			<key>Date Added</key><date>2010-04-24T13:24:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6DD0A0CF8EA74029</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Them%20Crooked%20Vultures/Them%20Crooked%20Vultures/06%20Scumbag%20Blues.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7969</key>
+		<dict>
+			<key>Track ID</key><integer>7969</integer>
+			<key>Name</key><string>Bandoliers</string>
+			<key>Artist</key><string>Them Crooked Vultures</string>
+			<key>Composer</key><string>Them Crooked Vultures</string>
+			<key>Album</key><string>Them Crooked Vultures</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10995412</integer>
+			<key>Total Time</key><integer>342099</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2010-02-08T04:04:06Z</date>
+			<key>Date Added</key><date>2010-04-24T13:24:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E8F198286E8B235E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Them%20Crooked%20Vultures/Them%20Crooked%20Vultures/07%20Bandoliers.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7974</key>
+		<dict>
+			<key>Track ID</key><integer>7974</integer>
+			<key>Name</key><string>Reptiles</string>
+			<key>Artist</key><string>Them Crooked Vultures</string>
+			<key>Composer</key><string>Them Crooked Vultures</string>
+			<key>Album</key><string>Them Crooked Vultures</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8236041</integer>
+			<key>Total Time</key><integer>255869</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2010-02-08T04:04:07Z</date>
+			<key>Date Added</key><date>2010-04-24T13:24:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>06CC05DFB382B568</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Them%20Crooked%20Vultures/Them%20Crooked%20Vultures/08%20Reptiles.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7979</key>
+		<dict>
+			<key>Track ID</key><integer>7979</integer>
+			<key>Name</key><string>Interlude With Ludes</string>
+			<key>Artist</key><string>Them Crooked Vultures</string>
+			<key>Composer</key><string>Them Crooked Vultures</string>
+			<key>Album</key><string>Them Crooked Vultures</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7235471</integer>
+			<key>Total Time</key><integer>224600</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2010-02-08T04:04:07Z</date>
+			<key>Date Added</key><date>2010-04-24T13:24:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3194341417D6E2AA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Them%20Crooked%20Vultures/Them%20Crooked%20Vultures/09%20Interlude%20With%20Ludes.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7984</key>
+		<dict>
+			<key>Track ID</key><integer>7984</integer>
+			<key>Name</key><string>Warsaw Or The First Breath You Take After You Give Up</string>
+			<key>Artist</key><string>Them Crooked Vultures</string>
+			<key>Composer</key><string>Them Crooked Vultures</string>
+			<key>Album</key><string>Them Crooked Vultures</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>15083976</integer>
+			<key>Total Time</key><integer>469864</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2010-02-08T04:04:07Z</date>
+			<key>Date Added</key><date>2010-04-24T13:24:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>91BB8B19B589BB2C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Them%20Crooked%20Vultures/Them%20Crooked%20Vultures/10%20Warsaw%20Or%20The%20First%20Breath%20You%20Take%20After%20You%20Give%20Up.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7989</key>
+		<dict>
+			<key>Track ID</key><integer>7989</integer>
+			<key>Name</key><string>Caligulove</string>
+			<key>Artist</key><string>Them Crooked Vultures</string>
+			<key>Composer</key><string>Them Crooked Vultures</string>
+			<key>Album</key><string>Them Crooked Vultures</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9499956</integer>
+			<key>Total Time</key><integer>295366</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2010-02-08T04:04:07Z</date>
+			<key>Date Added</key><date>2010-04-24T13:24:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C5BEF3916C0F0A48</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Them%20Crooked%20Vultures/Them%20Crooked%20Vultures/11%20Caligulove.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7994</key>
+		<dict>
+			<key>Track ID</key><integer>7994</integer>
+			<key>Name</key><string>Gunman</string>
+			<key>Artist</key><string>Them Crooked Vultures</string>
+			<key>Composer</key><string>Them Crooked Vultures</string>
+			<key>Album</key><string>Them Crooked Vultures</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9181463</integer>
+			<key>Total Time</key><integer>285413</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2010-02-08T04:04:07Z</date>
+			<key>Date Added</key><date>2010-04-24T13:24:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>506E2FA8CE3A22D9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Them%20Crooked%20Vultures/Them%20Crooked%20Vultures/12%20Gunman.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7999</key>
+		<dict>
+			<key>Track ID</key><integer>7999</integer>
+			<key>Name</key><string>Spinning In Daffodils</string>
+			<key>Artist</key><string>Them Crooked Vultures</string>
+			<key>Composer</key><string>Them Crooked Vultures</string>
+			<key>Album</key><string>Them Crooked Vultures</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>14388428</integer>
+			<key>Total Time</key><integer>448130</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2010-02-08T04:04:07Z</date>
+			<key>Date Added</key><date>2010-04-24T13:24:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EAB1B3672006F1DE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Music/Them%20Crooked%20Vultures/Them%20Crooked%20Vultures/13%20Spinning%20In%20Daffodils.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9719</key>
+		<dict>
+			<key>Track ID</key><integer>9719</integer>
+			<key>Name</key><string>Are there people who feel others' pain?</string>
+			<key>Artist</key><string>HowStuffWorks.com</string>
+			<key>Album</key><string>Stuff You Should Know</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>21010959</integer>
+			<key>Total Time</key><integer>2097528</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-04-24T13:25:17Z</date>
+			<key>Date Added</key><date>2010-04-24T13:25:17Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Release Date</key><date>2010-04-22T16:12:20Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>45DA74018082B736</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>Unplayed</key><true/>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Podcasts/Stuff%20You%20Should%20Know/Are%20there%20people%20who%20feel%20others'%20pain_.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9879</key>
+		<dict>
+			<key>Track ID</key><integer>9879</integer>
+			<key>Name</key><string>New High-Viscosity Mayo To Aid In American Swallowing</string>
+			<key>Artist</key><string>The Onion</string>
+			<key>Album</key><string>Onion Radio News</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>443225</integer>
+			<key>Total Time</key><integer>42710</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-04-24T13:25:36Z</date>
+			<key>Date Added</key><date>2010-04-24T13:25:36Z</date>
+			<key>Bit Rate</key><integer>81</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3354942694</integer>
+			<key>Play Date UTC</key><date>2010-04-24T13:31:34Z</date>
+			<key>Release Date</key><date>2010-04-23T23:59:59Z</date>
+			<key>Sort Artist</key><string>Onion</string>
+			<key>Persistent ID</key><string>A2C2134A9F936294</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Podcasts/Onion%20Radio%20News/New%20High-Viscosity%20Mayo%20To%20Aid%20In%20American%20Swallowing.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9889</key>
+		<dict>
+			<key>Track ID</key><integer>9889</integer>
+			<key>Name</key><string>TEDTalks : Omar Ahmad: Political change with pen and paper - Omar Ahmad (2010)</string>
+			<key>Artist</key><string>Omar Ahmad</string>
+			<key>Album</key><string>TEDTalks (video)</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>29364328</integer>
+			<key>Total Time</key><integer>398430</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-04-24T13:25:45Z</date>
+			<key>Date Added</key><date>2010-04-24T13:25:45Z</date>
+			<key>Bit Rate</key><integer>97</integer>
+			<key>Comments</key><string>To learn more about this speaker, find other TEDTalks, and subscribe to this Podcast series, visit www.TED.com   Feedback: tedtalks@ted.com</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3354942700</integer>
+			<key>Play Date UTC</key><date>2010-04-24T13:31:40Z</date>
+			<key>Release Date</key><date>2010-04-23T13:24:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7F77AA45CD7C1063</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>432</integer>
+			<key>Video Height</key><integer>240</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Podcasts/TEDTalks%20(video)/TEDTalks%20_%20Omar%20Ahmad_%20Political%20change%20with%20pen%20and%20paper%20-%20Omar%20Ahmad%20(2010).mp4</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9897</key>
+		<dict>
+			<key>Track ID</key><integer>9897</integer>
+			<key>Name</key><string>#175: Babysitting</string>
+			<key>Artist</key><string>Chicago Public Radio</string>
+			<key>Album Artist</key><string>Chicago Public Radio</string>
+			<key>Album</key><string>This American Life</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>28576936</integer>
+			<key>Total Time</key><integer>3568352</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-04-24T13:25:54Z</date>
+			<key>Date Added</key><date>2010-04-24T13:25:54Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>(C) 1995 - 2010 WBEZ Alliance, Inc. &#38; Ira Glass</string>
+			<key>Release Date</key><date>2010-04-18T23:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E35D936D4C83FCB3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>Unplayed</key><true/>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Podcasts/This%20American%20Life/%23175_%20Babysitting.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9966</key>
+		<dict>
+			<key>Track ID</key><integer>9966</integer>
+			<key>Name</key><string>NPR: 04-23-2010 Fresh Air</string>
+			<key>Artist</key><string>NPR</string>
+			<key>Album</key><string>NPR: Fresh Air Podcast</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>22449890</integer>
+			<key>Total Time</key><integer>2796617</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-04-24T13:26:33Z</date>
+			<key>Date Added</key><date>2010-04-24T13:26:33Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2010-04-24T01:41:21Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A7609243F54FF5C6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>Unplayed</key><true/>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Podcasts/NPR_%20Fresh%20Air%20Podcast/01%20NPR_%2004-23-2010%20Fresh%20Air.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10086</key>
+		<dict>
+			<key>Track ID</key><integer>10086</integer>
+			<key>Name</key><string>TWiT 244: Pork Chops And Apple Sauce</string>
+			<key>Artist</key><string>Leo Laporte and the TWiTs</string>
+			<key>Album</key><string>this WEEK in TECH - MP3 Edition</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>40569155</integer>
+			<key>Total Time</key><integer>5055268</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-04-24T13:27:12Z</date>
+			<key>Date Added</key><date>2010-04-24T13:27:12Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>http://twit.tv/244</string>
+			<key>Release Date</key><date>2010-04-19T02:36:36Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3DA1A00777C7EC80</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>Unplayed</key><true/>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Podcasts/this%20WEEK%20in%20TECH%20-%20MP3%20Edition/TWiT%20244_%20Pork%20Chops%20And%20Apple%20Sauce.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10973</key>
+		<dict>
+			<key>Track ID</key><integer>10973</integer>
+			<key>Name</key><string>SLoS | Astrophysicist &#38; Tie Collector: Neil deGrasse Tyson</string>
+			<key>Artist</key><string>WGBH Science Unit</string>
+			<key>Album</key><string>NOVA Vodcast | PBS</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>28440331</integer>
+			<key>Total Time</key><integer>441475</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-04-24T13:30:00Z</date>
+			<key>Date Added</key><date>2010-04-24T13:29:58Z</date>
+			<key>Bit Rate</key><integer>93</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3354942706</integer>
+			<key>Play Date UTC</key><date>2010-04-24T13:31:46Z</date>
+			<key>Release Date</key><date>2010-04-23T17:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2BB48776F65C1CB3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>640</integer>
+			<key>Video Height</key><integer>360</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Podcasts/NOVA%20Vodcast%20_%20PBS/SLoS%20_%20Astrophysicist%20&#38;%20Tie%20Collector_%20Neil%20deGrasse%20Tyson.m4v</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10981</key>
+		<dict>
+			<key>Track ID</key><integer>10981</integer>
+			<key>Name</key><string>Casino Royale</string>
+			<key>Artist</key><string>Martin Campbell</string>
+			<key>Genre</key><string>Action &#38; Adventure</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>1118557348</integer>
+			<key>Total Time</key><integer>8673757</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2008-02-07T21:36:27Z</date>
+			<key>Date Added</key><date>2010-04-24T13:30:12Z</date>
+			<key>Bit Rate</key><integer>125</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3354942831</integer>
+			<key>Play Date UTC</key><date>2010-04-24T13:33:51Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>17EEA2CF7A823B8B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>580</integer>
+			<key>Video Height</key><integer>234</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Movies/Casino%20Royale/Casino%20Royale.mp4</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10990</key>
+		<dict>
+			<key>Track ID</key><integer>10990</integer>
+			<key>Name</key><string>I Am America (And So Can You!)</string>
+			<key>Artist</key><string>Stephen Colbert</string>
+			<key>Album Artist</key><string>Stephen Colbert</string>
+			<key>Album</key><string>I Am America (And So Can You!)</string>
+			<key>Genre</key><string>Audiobook</string>
+			<key>Kind</key><string>Audible file</string>
+			<key>Size</key><integer>104052595</integer>
+			<key>Total Time</key><integer>12824798</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2009-10-26T04:37:50Z</date>
+			<key>Date Added</key><date>2010-04-24T13:30:27Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Comments</key><string>The author describes this as a simple audiobook from a simple mind: Stephen Colbert's....</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3354942740</integer>
+			<key>Play Date UTC</key><date>2010-04-24T13:32:20Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E104DE46C0F86146</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Audiobooks/Stephen%20Colbert/I%20Am%20America%20(And%20So%20Can%20You!).aax</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10999</key>
+		<dict>
+			<key>Track ID</key><integer>10999</integer>
+			<key>Name</key><string>Blink: The Power of Thinking Without Thinking (Unabridged)</string>
+			<key>Artist</key><string>Malcolm Gladwell</string>
+			<key>Album Artist</key><string>Malcolm Gladwell</string>
+			<key>Album</key><string>Blink (Unabridged)</string>
+			<key>Genre</key><string>Audiobook</string>
+			<key>Kind</key><string>Audible file</string>
+			<key>Size</key><integer>225241685</integer>
+			<key>Total Time</key><integer>27852939</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2009-10-26T04:59:02Z</date>
+			<key>Date Added</key><date>2010-04-24T13:30:48Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Comments</key><string>In his landmark best seller The Tipping Point, Malcolm Gladwell redefined how we understand the world around us....</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BD92291D84579B28</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Audiobooks/Malcolm%20Gladwell/Blink_%20The%20Power%20of%20Thinking%20Without%20Thinking%20(Unabridged).aax</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11008</key>
+		<dict>
+			<key>Track ID</key><integer>11008</integer>
+			<key>Name</key><string>Benjamin Franklin: An American Life</string>
+			<key>Artist</key><string>Walter Isaacson</string>
+			<key>Album Artist</key><string>Walter Isaacson</string>
+			<key>Album</key><string>Benjamin Franklin: An American Life</string>
+			<key>Genre</key><string>Audiobook</string>
+			<key>Kind</key><string>Audible file</string>
+			<key>Size</key><integer>210453520</integer>
+			<key>Total Time</key><integer>26018144</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2009-10-26T04:53:16Z</date>
+			<key>Date Added</key><date>2010-04-24T13:30:58Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Comments</key><string>In best selling author Walter Isaacson's vivid and witty full-scale biography, we discover why Franklin turns to us...</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3354942744</integer>
+			<key>Play Date UTC</key><date>2010-04-24T13:32:24Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>34E71B66C3D75173</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Audiobooks/Walter%20Isaacson/Benjamin%20Franklin_%20An%20American%20Life.aax</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11017</key>
+		<dict>
+			<key>Track ID</key><integer>11017</integer>
+			<key>Name</key><string>Freakonomics: Revised Edition (Unabridged)</string>
+			<key>Artist</key><string>Steven D. Levitt and Stephen J. Dubner</string>
+			<key>Album Artist</key><string>Steven D. Levitt and Stephen J. Dubner</string>
+			<key>Album</key><string>Freakonomics: Revised Edition (Unabridged)</string>
+			<key>Genre</key><string>Audiobook</string>
+			<key>Kind</key><string>Audible file</string>
+			<key>Size</key><integer>201661501</integer>
+			<key>Total Time</key><integer>24919980</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2009-10-26T04:56:55Z</date>
+			<key>Date Added</key><date>2010-04-24T13:31:03Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Comments</key><string>Levitt and co-author Stephen J. Dubner show that economics is, at root, the study of incentives....</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3354942751</integer>
+			<key>Play Date UTC</key><date>2010-04-24T13:32:31Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1BDC79558DAB006A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Audiobooks/Steven%20D.%20Levitt%20and%20Stephen%20J.%20Dubner/Freakonomics_%20Revised%20Edition%20(Unabridged).aax</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11031</key>
+		<dict>
+			<key>Track ID</key><integer>11031</integer>
+			<key>Name</key><string>Jimmy Fallon Visits From The Future! - Diggnation</string>
+			<key>Artist</key><string>Revision3</string>
+			<key>Album</key><string>Diggnation (Quicktime Small)</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>111270925</integer>
+			<key>Total Time</key><integer>1997230</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-04-24T13:31:26Z</date>
+			<key>Date Added</key><date>2010-04-24T13:31:25Z</date>
+			<key>Bit Rate</key><integer>109</integer>
+			<key>Release Date</key><date>2010-04-21T03:15:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0C5E76CD501305EB</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>Unplayed</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>320</integer>
+			<key>Video Height</key><integer>180</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Podcasts/Diggnation%20(Quicktime%20Small)/Jimmy%20Fallon%20Visits%20From%20The%20Future!%20-%20Diggnation.mp4</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11039</key>
+		<dict>
+			<key>Track ID</key><integer>11039</integer>
+			<key>Name</key><string>Rotten Tomatoes Show: Kick-Ass, Death at a Funeral, &#38; The Joneses</string>
+			<key>Album</key><string>Rotten Tomatoes Show</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>256032492</integer>
+			<key>Total Time</key><integer>1321600</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-04-24T13:31:36Z</date>
+			<key>Date Added</key><date>2010-04-24T13:31:35Z</date>
+			<key>Bit Rate</key><integer>155</integer>
+			<key>Release Date</key><date>2010-04-23T20:54:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FDC6FB1D392E460A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>Unplayed</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>640</integer>
+			<key>Video Height</key><integer>480</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Podcasts/Rotten%20Tomatoes%20Show/Rotten%20Tomatoes%20Show_%20Kick-Ass,%20Death%20at%20a%20Funeral,%20&#38;%20The%20Joneses.mp4</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11061</key>
+		<dict>
+			<key>Track ID</key><integer>11061</integer>
+			<key>Name</key><string>Iron Man</string>
+			<key>Artist</key><string>Jon Favreau</string>
+			<key>Genre</key><string>Action &#38; Adventure</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>1573038500</integer>
+			<key>Total Time</key><integer>7561095</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2010-04-24T13:32:35Z</date>
+			<key>Date Added</key><date>2010-04-24T13:33:38Z</date>
+			<key>Bit Rate</key><integer>159</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A34D927CB97DB3CA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>640</integer>
+			<key>Video Height</key><integer>272</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Movies/Iron%20Man/Iron%20Man.mp4</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11068</key>
+		<dict>
+			<key>Track ID</key><integer>11068</integer>
+			<key>Name</key><string>Ocean's Eleven</string>
+			<key>Artist</key><string>Steven Soderbergh</string>
+			<key>Genre</key><string>Action &#38; Adventure</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>955269814</integer>
+			<key>Total Time</key><integer>6987980</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2010-04-24T13:31:48Z</date>
+			<key>Date Added</key><date>2010-04-24T13:33:39Z</date>
+			<key>Bit Rate</key><integer>127</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3354942831</integer>
+			<key>Play Date UTC</key><date>2010-04-24T13:33:51Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8AE8AD3489F37191</string>
+			<key>Track Type</key><string>File</string>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>720</integer>
+			<key>Video Height</key><integer>304</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Movies/Ocean's%20Eleven/Ocean's%20Eleven.mp4</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11075</key>
+		<dict>
+			<key>Track ID</key><integer>11075</integer>
+			<key>Name</key><string>The Dark Knight</string>
+			<key>Artist</key><string>Christopher Nolan</string>
+			<key>Genre</key><string>Action &#38; Adventure</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>1900117215</integer>
+			<key>Total Time</key><integer>9130453</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2010-04-24T13:32:47Z</date>
+			<key>Date Added</key><date>2010-04-24T13:33:39Z</date>
+			<key>Bit Rate</key><integer>159</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Dark Knight</string>
+			<key>Persistent ID</key><string>E5B9758DAFCC3D23</string>
+			<key>Track Type</key><string>File</string>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>720</integer>
+			<key>Video Height</key><integer>304</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/Movies/The%20Dark%20Knight/The%20Dark%20Knight.mp4</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11082</key>
+		<dict>
+			<key>Track ID</key><integer>11082</integer>
+			<key>Name</key><string>Crazy Handful of Nothin</string>
+			<key>Artist</key><string>Breaking Bad</string>
+			<key>Album Artist</key><string>Breaking Bad</string>
+			<key>Album</key><string>Breaking Bad, Season 1</string>
+			<key>Genre</key><string>Drama</string>
+			<key>Kind</key><string>Protected MPEG-4 video file</string>
+			<key>Size</key><integer>681406112</integer>
+			<key>Total Time</key><integer>2878127</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2010-05-31T13:13:27Z</date>
+			<key>Date Added</key><date>2010-05-31T12:57:37Z</date>
+			<key>Bit Rate</key><integer>125</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3358144028</integer>
+			<key>Play Date UTC</key><date>2010-05-31T13:47:08Z</date>
+			<key>Release Date</key><date>2008-03-02T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Series</key><string>Breaking Bad</string>
+			<key>Season</key><integer>1</integer>
+			<key>Episode</key><string>0105</string>
+			<key>Episode Order</key><integer>6</integer>
+			<key>Sort Album</key><string>Breaking Bad, Season 1</string>
+			<key>Persistent ID</key><string>478CDA1075A86313</string>
+			<key>Content Rating</key><string>us-tv|TV-14|500|</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Purchased</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>640</integer>
+			<key>Video Height</key><integer>480</integer>
+			<key>TV Show</key><true/>
+			<key>Location</key><string>file://localhost/iTunes/iTunes%20Media/TV%20Shows/Breaking%20Bad/Season%201/06%20Crazy%20Handful%20of%20Nothin.m4v</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Library</string>
+			<key>Master</key><true/>
+			<key>Playlist ID</key><integer>44</integer>
+			<key>Playlist Persistent ID</key><string>DB869DDFA03C255E</string>
+			<key>Visible</key><false/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>9897</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11075</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7358</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7365</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7370</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7375</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7380</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7385</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7390</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7395</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7400</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7405</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7430</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7437</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7442</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7447</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7452</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7457</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7462</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7467</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7472</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7477</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7482</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7487</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7492</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7523</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7530</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7535</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7540</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7545</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7550</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7555</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7560</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7565</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7570</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7575</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7580</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7585</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7590</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7595</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7630</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7635</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9719</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7644</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7651</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7656</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7661</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7666</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7671</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7676</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7681</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7686</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7691</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7696</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7701</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7706</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7737</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7744</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7749</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7754</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7759</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7764</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7769</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7774</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7779</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7784</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7789</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7794</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11061</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10086</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10999</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10981</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7823</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7830</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7835</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7840</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7845</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7850</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7855</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7860</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7865</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7870</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7875</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7880</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7885</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7890</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7895</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7900</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9966</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9889</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9879</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11031</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10990</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11017</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11068</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7937</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7944</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7949</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7954</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7959</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7964</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7969</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7974</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7979</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7984</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7989</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7994</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7999</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11008</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10973</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11039</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Music</string>
+			<key>Playlist ID</key><integer>90</integer>
+			<key>Playlist Persistent ID</key><string>CD63151AB45110B9</string>
+			<key>Distinguished Kind</key><integer>4</integer>
+			<key>Music</key><true/>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwAAAQAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAQIbEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAQIbEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AgAIAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAACAE
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAPAIACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAEQAAAAAACAgAAAAAAAAAAAAAAAAAAAAAAEAAAAAACAAAAAAAAAAAAAAAAAAAAAA
+			AAEAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>7358</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7365</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7370</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7375</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7380</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7385</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7390</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7395</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7400</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7405</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7430</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7437</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7442</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7447</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7452</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7457</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7462</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7467</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7472</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7477</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7482</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7487</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7492</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7523</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7530</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7535</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7540</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7545</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7550</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7555</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7560</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7565</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7570</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7575</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7580</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7585</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7590</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7595</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7630</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7635</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7644</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7651</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7656</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7661</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7666</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7671</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7676</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7681</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7686</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7691</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7696</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7701</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7706</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7737</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7744</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7749</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7754</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7759</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7764</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7769</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7774</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7779</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7784</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7789</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7794</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7823</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7830</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7835</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7840</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7845</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7850</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7855</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7860</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7865</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7870</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7875</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7880</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7885</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7890</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7895</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7900</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7937</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7944</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7949</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7954</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7959</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7964</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7969</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7974</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7979</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7984</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7989</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7994</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7999</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Movies</string>
+			<key>Playlist ID</key><integer>93</integer>
+			<key>Playlist Persistent ID</key><string>A953D638EBFF0F36</string>
+			<key>Distinguished Kind</key><integer>2</integer>
+			<key>Movies</key><true/>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwAAAgAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAggAYAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>10981</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11075</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11061</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11068</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Podcasts</string>
+			<key>Playlist ID</key><integer>84</integer>
+			<key>Playlist Persistent ID</key><string>0E9E5B0ADDB3D068</string>
+			<key>Distinguished Kind</key><integer>10</integer>
+			<key>Podcasts</key><true/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>9966</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9879</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11039</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10973</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9889</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9719</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11031</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10086</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9897</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Books</string>
+			<key>Playlist ID</key><integer>99</integer>
+			<key>Playlist Persistent ID</key><string>28173CDE0147233C</string>
+			<key>Distinguished Kind</key><integer>5</integer>
+			<key>Audiobooks</key><true/>
+			<key>Books</key><true/>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwAAAQAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAABAAAgAAAAAAAAAAAAAAAAAAAAB
+			AAAAAABAAAgAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AgAIAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAE
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAPAIACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAEQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAACAAAAAAAAAAAAAAAAAAAAAA
+			AAEAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>10999</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10990</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11017</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11008</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Genius</string>
+			<key>Playlist ID</key><integer>108</integer>
+			<key>Playlist Persistent ID</key><string>FC41AF1DD3B70746</string>
+			<key>Distinguished Kind</key><integer>26</integer>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>90’s Music</string>
+			<key>Playlist ID</key><integer>47</integer>
+			<key>Playlist Persistent ID</key><string>5704261FD989C865</string>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcAAAEAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAB8YAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAB88AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgFNMc3QAAQAB
+			AAAAAgAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPAAABAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQAAAAAAAAAIAAAAAAAAAAA
+			AAAAAAAAAAEAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+			</data>
+		</dict>
+		<dict>
+			<key>Name</key><string>Classical Music</string>
+			<key>Playlist ID</key><integer>65</integer>
+			<key>Playlist Persistent ID</key><string>D5A76C10DDC0F550</string>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAU0xzdAABAAEAAAACAAAAAQAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAADwAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnpTTHN0AAEAAQAAAAcAAAAB
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAACAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAABIAQwBsAGEAcwBzAGkAYwBhAGwAAAAIAQAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEABLAGwAYQBzAHMAaQBlAGsAAAAI
+			AQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEgBD
+			AGwAYQBzAHMAaQBxAHUAZQAAAAgBAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAOAEsAbABhAHMAcwBpAGsAAAAIAQAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEABDAGwAYQBzAHMAaQBjAGEAAAAI
+			AQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACjCv
+			MOkwtzDDMK8AAAAIAQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAADgBDAGwA4QBzAGkAYwBh
+			</data>
+		</dict>
+		<dict>
+			<key>Name</key><string>Music Videos</string>
+			<key>Playlist ID</key><integer>62</integer>
+			<key>Playlist Persistent ID</key><string>BA41DF6CC95B1E1B</string>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwAAAQAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAACAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+			</data>
+		</dict>
+		<dict>
+			<key>Name</key><string>My Top Rated</string>
+			<key>Playlist ID</key><integer>50</integer>
+			<key>Playlist Persistent ID</key><string>6DD3A171A88A6D8A</string>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkAAAAQAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAADwAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+			</data>
+		</dict>
+		<dict>
+			<key>Name</key><string>Recently Added</string>
+			<key>Playlist ID</key><integer>59</integer>
+			<key>Playlist Persistent ID</key><string>02ED70E615548F71</string>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABELa4tri2uLa7//////////gAAAAAACTqA
+			La4tri2uLa4AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5AgAAAQAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAA
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>7358</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7365</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7370</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7375</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7380</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7385</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7390</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7395</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7400</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7405</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7430</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7437</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7442</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7447</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7452</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7457</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7462</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7467</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7472</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7477</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7482</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7487</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7492</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7523</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7530</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7535</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7540</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7545</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7550</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7555</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7560</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7565</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7570</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7575</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7580</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7585</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7590</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7595</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7630</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7635</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7644</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7651</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7656</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7661</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7666</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7671</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7676</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7681</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7686</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7691</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7696</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7701</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7706</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7737</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7744</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7749</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7754</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7759</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7764</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7769</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7774</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7779</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7784</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7789</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7794</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7823</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7830</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7835</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7840</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7845</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7850</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7855</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7860</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7865</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7870</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7875</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7880</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7885</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7890</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7895</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7900</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7937</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7944</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7949</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7954</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7959</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7964</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7969</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7974</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7979</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7984</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7989</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7994</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7999</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10981</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10990</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10999</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11008</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11017</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11075</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11061</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11068</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Recently Played</string>
+			<key>Playlist ID</key><integer>56</integer>
+			<key>Playlist Persistent ID</key><string>6ED9565B7DA7CDC7</string>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABcAAAIAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABELa4tri2uLa7//////////gAAAAAACTqA
+			La4tri2uLa4AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5AgAAAQAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAA
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>10990</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11008</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11017</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10981</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11068</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Top 25 Most Played</string>
+			<key>Playlist ID</key><integer>53</integer>
+			<key>Playlist Persistent ID</key><string>04F33EBB8749D1EB</string>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEBAwAAABkAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADkCAAABAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAAAEAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAA
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>10990</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11008</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11017</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10981</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11068</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
