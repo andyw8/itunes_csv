@@ -1,26 +1,21 @@
 # iTunes CSV
 
-TODO: Write a gem description
+Export iTunes Library XML data to CSV
 
 ## Installation
-
-Add this line to your application's Gemfile:
-
-    gem 'itunes_csv'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
 
     $ gem install itunes_csv
 
 ## Usage
 
-   $ itunes_csv [iTunes Libary Path]
+    $ itunes_csv --help
+    Usage: itunes_csv [options]
+        -f, --fields name,track,year     List of fields(default: name,artist)
+        -p, --path PATH                  Path to iTunes XML file (default: ~/Music/iTunes/iTunes Music Library.xml)
 
-If a path is not given, the default will be `~/Music/iTunes/iTunes Music Library.xml`
+## Notes
+
+May take a long time to run for a large iTunes library (10,000+ tracks)
 
 ## Contributing
 
