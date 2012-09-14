@@ -34,6 +34,8 @@ Supported fields:
  * id
  * kind
  * last_played_at
+ * location
+ * location_path
  * movie?
  * number
  * persistent_id
