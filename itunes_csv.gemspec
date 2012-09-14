@@ -14,5 +14,5 @@ Gem::Specification.new do |gem|
   gem.name          = "itunes_csv"
   gem.require_paths = ["lib"]
   gem.version       = ItunesCsv::VERSION
-  gem.add_runtime_dependency "itunes-library"
+  gem.add_runtime_dependency "andyw8-itunes-library"
 end
