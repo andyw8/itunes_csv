@@ -10,7 +10,7 @@ module ItunesCsv
 
       opts = OptionParser.new do |opts|
         options[:fields] = ['name', 'artist']
-        opts.on( '-f', '--fields name,track,year', Array, "List of fields (default: #{options[:fields].join(',')})" ) do |list|
+        opts.on( '-f', '--fields a,b,c', Array, "List of fields (default: #{options[:fields].join(',')})" ) do |list|
           options[:fields] = list
         end
 
