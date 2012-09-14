@@ -4,7 +4,7 @@ Export iTunes Library XML data to CSV
 
 # Why?
 
-iTunes allows you to copy and paste from iTunes into a spreadsheet, but this only includes visible columns. For non-visible columns you need to extract from the XML.
+I wanted to do a clean-up of my library. iTunes allows you to copy and paste from iTunes into a spreadsheet, but this only includes visible columns. For non-visible columns such as location you need to parse the XML.
 
 ## Installation
 
