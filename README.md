@@ -2,6 +2,10 @@
 
 Export iTunes Library XML data to CSV
 
+# Why?
+
+iTunes allows you to copy and paste from iTunes into a spreadsheet, but this only includes visible columns. For non-visible columns you need to extract from the XML.
+
 ## Installation
 
     $ gem install itunes_csv
