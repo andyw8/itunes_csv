@@ -15,4 +15,8 @@ Gem::Specification.new do |gem|
   gem.require_paths = ["lib"]
   gem.version       = ItunesCsv::VERSION
   gem.add_runtime_dependency "andyw8-itunes-library", "~> 0.1.3"
+  gem.add_runtime_dependency "csv"
+  gem.metadata      = {
+    "source_code_uri" => "https://github.com/smoreface/itunes-library"
+  }
 end

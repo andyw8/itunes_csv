@@ -16,38 +16,29 @@ I wanted to do a clean-up of my library. iTunes allows you to copy and paste fro
     Usage: itunes_csv [options]
         -f, --fields name,track,year     List of fields (default: name,artist)
         -p, --path PATH                  Path to iTunes XML file (default: ~/Music/iTunes/iTunes Music Library.xml)
+        -o, --output file                File to export the CSV file to (default: print to stdout)
 
 ## Notes
 
 May take a long time to run for a large iTunes library (10,000+ tracks)
 
-Supported fields:
+Supported fields are pulled from itunes-library track.rb file and include:
 
  * album
  * artist
- * audio?
- * audiobook?
- * composer
  * date_added
- * episode_number
  * genre
  * id
  * kind
  * last_played_at
  * location
- * location_path
- * movie?
- * number
  * persistent_id
  * play_count
- * played?
- * podcast?
- * season_number
- * total_time
- * tv_show?
- * unplayed?
- * video?
- * year
+ * comment
+ * duration_ms
+ * rating
+
+and others!
 
 ## Contributing
 
