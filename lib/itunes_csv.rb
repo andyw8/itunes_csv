@@ -20,7 +20,7 @@ module ItunesCsv
         end
 
         options[:output] = nil
-        opts.on( '-o', '--output FILE', "Output to FILE instead of stdout" ) do |file|
+        opts.on( '-o', '--output FILE', "Output to FILE instead of stdout (default: stdout)" ) do |file|
           options[:output] = file
         end
       end
@@ -30,12 +30,9 @@ module ItunesCsv
       library_path = File.expand_path(options[:path])
       library = ITunes::Library.load(library_path)
       
-      total_tracks = library.music.tracks.count
-      puts "Processing #{total_tracks} tracks..."
-      
       csv_string = CSV.generate do |csv|
         csv << options[:fields]
-        library.music.tracks.each_with_index do |t, index|
+        library.music.tracks.each do |t|
           row = options[:fields].map do |f|
             unless t.respond_to?(f.to_sym)
               puts "Unknown field: #{f}"
@@ -44,15 +41,8 @@ module ItunesCsv
             t.send(f.to_sym)
           end
           csv << row
-          
-          # Print progress every 100 tracks
-          if (index + 1) % 100 == 0
-            puts "Processed #{index + 1}/#{total_tracks} tracks..."
-          end
         end
       end
-      
-      puts "Completed processing #{total_tracks} tracks."
       
       if options[:output]
         File.write(options[:output], csv_string)
