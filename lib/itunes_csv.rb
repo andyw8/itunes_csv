@@ -18,15 +18,21 @@ module ItunesCsv
         opts.on( '-p', '--path PATH', "Path to iTunes XML file (default: #{options[:path]})" ) do |path|
           options[:path] = path
         end
+
+        options[:output] = nil
+        opts.on( '-o', '--output FILE', "Output to FILE instead of stdout" ) do |file|
+          options[:output] = file
+        end
       end
 
-      opts.parse!
+      opts.parse!(args)
 
       library_path = File.expand_path(options[:path])
       library = ITunes::Library.load(library_path)
+      
       csv_string = CSV.generate do |csv|
         csv << options[:fields]
-      	library.music.tracks.each do |t|
+        library.music.tracks.each do |t|
           row = options[:fields].map do |f|
             unless t.respond_to?(f.to_sym)
               puts "Unknown field: #{f}"
@@ -34,10 +40,16 @@ module ItunesCsv
             end
             t.send(f.to_sym)
           end
-  		    csv << row
-  		  end
-  	  end
-  	  puts csv_string
+          csv << row
+        end
+      end
+      
+      if options[:output]
+        File.write(options[:output], csv_string)
+        puts "CSV written to #{options[:output]}"
+      else
+        puts csv_string
+      end
     end
   end
 end
