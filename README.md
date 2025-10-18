@@ -26,19 +26,30 @@ Supported fields are pulled from itunes-library track.rb file and include:
 
  * album
  * artist
+ * audio?
+ * audiobook?
+ * composer
  * date_added
+ * episode_number
  * genre
  * id
  * kind
  * last_played_at
  * location
+ * location_path
+ * movie?
+ * number
  * persistent_id
  * play_count
- * comment
- * duration_ms
- * rating
+ * played?
+ * podcast?
+ * season_number
+ * total_time
+ * tv_show?
+ * unplayed?
+ * video?
+ * year
 
-and others!
 
 ## Contributing
 
